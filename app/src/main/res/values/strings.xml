@@ -1,0 +1,15 @@
+<resources>
+    <!-- Application name -->
+    <string name = "app_name">Hello World!</string>
+
+    <!-- first contact -->
+    <string name = "welcome">Welcome User! Would you mind telling me your name?</string>
+
+    <!-- personalized welcome -->
+    <string name = "hello">Hello %1$s. Nice to meet you.</string>
+
+    <!-- Layouttext -->
+    <string name = "finish">Finish</string>
+    <string name = "move_on">Continue</string>
+    <string name = "firstname_lastname">Firstname Lastname</string>
+</resources>
